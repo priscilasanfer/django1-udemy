@@ -24,7 +24,7 @@ SECRET_KEY = 'm9)($)rn4hrir%+9d-y*3%%sx)+kc)nxgqvxgvl*#1n-ur=1vo'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["django1-prisanfer.herokuapp.com/"]
+ALLOWED_HOSTS = ["*.herokuapp.com"]
 
 # Application definition
 
